@@ -1,0 +1,1 @@
+Projeto simples criado com o intuito de relembrar alguns conceitos e aprimorar meu conhecimento com o github, visto que esse é meu primeiro projeto postado.
