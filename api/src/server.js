@@ -1,3 +1,8 @@
 import index from './index';
+import dotenv from 'dotenv';
 
-index.listen(3333);
+dotenv.config();
+
+index.listen(`${process.env.PORT}`);
+
+console.log(`API iniciada porta: ${process.env.PORT}`);
